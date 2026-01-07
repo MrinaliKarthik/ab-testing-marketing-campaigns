@@ -47,27 +47,24 @@ The analysis prioritizes clarity, correctness, and decision-making relevance ove
 
 ---
 
-## Repository Structure
-data/
-raw/ Original dataset
-processed/ Cleaned or derived data
-notebooks/ Jupyter notebook with A/B testing analysis
-docs/ Data documentation
-dashboards/ Campaign performance dashboard assets
-reports/
-figures/ Exported charts and visuals
-
 ## Future Work
 •⁠  ⁠Apply the same testing framework to more recent datasets
+
 •⁠  ⁠Extend the analysis to multi-variant experiments
+
 •⁠  ⁠Incorporate seasonality and time-based controls
+
 •⁠  ⁠Evaluate long-term lift and return on ad spend (ROAS)
 
 ---
 
 ## Tools and Skills Demonstrated
 •⁠  ⁠A/B testing and hypothesis testing
+
 •⁠  ⁠Statistical analysis using Python
+
 •⁠  Regression Analysis 
+
 •⁠  ⁠Marketing performance evaluation
+
 •⁠  ⁠Data storytelling and business insight generation
